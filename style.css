@@ -18,16 +18,15 @@ body {
     background: #F0F2F4;
 }
 #logo {
-  font-family: 'Lobster', cursive;
-    font-size: 35px;
-    font-weight: bold;
+    font-family: 'Lobster', cursive;
+    font-size: 25px;
     color: #91972A;
   }
 .navbar-menu {
   font-weight: bold;
     font-size: 20px;
     color: black;
-    text-transform: uppercase;
+    
 }
 #navbarMenu {
     
